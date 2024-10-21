@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @2tank
+# 👋 Hello there!
 
   I am a Software Engineering student at the University of Málaga (UMA) in my final year. I am passionate about **software development**, **artificial intelligence**, and **web development**.
   My goal is to become a **Full Stack Developer** in the future, and I continuously strive to improve my skills in both **frontend** and **backend**.
