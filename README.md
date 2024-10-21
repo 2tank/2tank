@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @2tank
-Soy estudiante de ingeniería de Software en la Universidad de Málaga (UMA) en mi último año. Me apasiona el **desarrollo de software**, la **inteligencia artificial** y el **desarrollo web**.
-Mi objetivo es convertirme en un **Full Stack Developer** en el futuro, y me esfuerzo continuamente por mejorar tanto en **frontend** como en **backend**.
+
+- Soy estudiante de ingeniería de Software en la Universidad de Málaga (UMA) en mi último año. Me apasiona el **desarrollo de software**, la **inteligencia artificial** y el **desarrollo web**.
+  Mi objetivo es convertirme en un **Full Stack Developer** en el futuro, y me esfuerzo continuamente por mejorar tanto en **frontend** como en **backend**.
 
 - ## 🔧 Technologies and Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
