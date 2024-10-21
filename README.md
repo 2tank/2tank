@@ -20,7 +20,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next-dot-js&logoColor=white)
 
 - ## 📫 How to reach me
-  My email is: adriifdezv@gmail.com (BBVOX)
+  My email is: adriifdezv@gmail.com
 
 - ## ⚡ Fun fact:
   Did you know that Fernando Alonso started racing at just 3 years old because his father built a go-kart for his older sister, 
