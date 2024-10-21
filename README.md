@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @2tank
 
-- Soy estudiante de ingeniería de Software en la Universidad de Málaga (UMA) en mi último año. Me apasiona el **desarrollo de software**, la **inteligencia artificial** y el **desarrollo web**.
-  Mi objetivo es convertirme en un **Full Stack Developer** en el futuro, y me esfuerzo continuamente por mejorar tanto en **frontend** como en **backend**.
+- I am a Software Engineering student at the University of Málaga (UMA) in my final year. I am passionate about **software development**, **artificial intelligence**, and **web development**.
+  My goal is to become a **Full Stack Developer** in the future, and I continuously strive to improve my skills in both **frontend** and **backend**.
 
 - ## 🔧 Technologies and Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -20,7 +20,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next-dot-js&logoColor=white)
 
 - ## 📫 How to reach me
-email: adriifdezv@gmail.com
+- email: adriifdezv@gmail.com
 
 - ## ⚡ Fun fact:
 Did you know that Fernando Alonso started racing at just 3 years old because his father built a go-kart for his older sister, 
